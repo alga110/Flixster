@@ -26,9 +26,12 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 ### App Walkthough GIF
 
 <img src="https://imgur.com/a/ltdxg4W" width=250><br>
+if gif is not displaying: https://imgur.com/a/ltdxg4W
 
 ### Notes
 Describe any challenges encountered while building the app.
+
+Had a difficult time understanding how to do the rotation. Wasn't sure if I could use the same objects or had to craete a separate new layout xml and bind them to the new layout ids.
 
 ### Open-source libraries used
 
