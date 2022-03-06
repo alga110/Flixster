@@ -11,7 +11,6 @@ import okhttp3.Headers
 import org.json.JSONException
 
 private const val NOW_PLAYING_URL= "https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed"
-private const val API_KEY = "a07e22bc18f5cb106bfe4cc1f83ad8ed"
 
 private const val TAG = "MainActivity"
 
